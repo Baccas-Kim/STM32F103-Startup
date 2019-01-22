@@ -1,2 +1,2 @@
-# STM32F103_jumpup
-STM32F103_jumpup
+# STM32F103_Escape_Starter
+Escape starter project
