@@ -1,27 +1,28 @@
 # STM32F103_Startup
-Escape starter project
-bulltin board in "https://cafe.naver.com/circuitsmanual" 2018 STM32 초보탈출
+## Escape starter project
+- bulltin board in "https://cafe.naver.com/circuitsmanual" 2018 STM32 초보탈출
 
-![](https://cafeptthumb-phinf.pstatic.net/MjAxOTAxMjJfMjE3/MDAxNTQ4MTMzODAxMzI4.YxRKotS-lNniUIa1DBTNrL_FyXryGzXYA-quMYBK1OIg.YziRtRKuiT4bcOHwL4fWEahlhOo3zNhqryihul-5d_Ig.JPEG.ultraraptor/STM32F-103C8T6-ARM-STM32-Minimum-System-Development.jpg_350x350.jpg?type=w740)
-안녕하세요 STM32초보탈출 프로젝트를 진행하며, 1기 초보탈출 내용을 정리해보고자 글을 썻습니다.
+- ![](https://cafeptthumb-phinf.pstatic.net/MjAxOTAxMjJfMjE3/MDAxNTQ4MTMzODAxMzI4.YxRKotS-lNniUIa1DBTNrL_FyXryGzXYA-quMYBK1OIg.YziRtRKuiT4bcOHwL4fWEahlhOo3zNhqryihul-5d_Ig.JPEG.ultraraptor/STM32F-103C8T6-ARM-STM32-Minimum-System-Development.jpg_350x350.jpg?type=w740)
+
+- 안녕하세요 STM32초보탈출 프로젝트를 진행하며, 1기 초보탈출 내용을 정리해보고자 글을 썻습니다.
 이 글 말고도 아래 제 개인 Github에 간단한 문서와 글을 업로드 하였으니, 참고 하시면 될듯 합니다.
 
-https://github.com/Baccas-Kim/STM32F103-Startup
-->GitHub는 어느정도 축약버전으로 업로드 하였습니다.
+ - https://github.com/Baccas-Kim/STM32F103-Startup
+- ->GitHub는 어느정도 축약버전으로 업로드 하였습니다.
 
-몇일 인터넷상에 정보글을 올리면서, 정보의 가공과 남들이 보기 쉽게 정리하는 과정또한 만드는것 만큼이나 중요하다는걸 느꼈습니다. 
+- 몇일 인터넷상에 정보글을 올리면서, 정보의 가공과 남들이 보기 쉽게 정리하는 과정또한 만드는것 만큼이나 중요하다는걸 느꼈습니다. 
 
-구슬이 서말이라도 꿰어야 보배라는 말을 카페에서 들었는데.. 지금까지 해놓은 것들은 만들기에 너무 급급하지 않았나? 라는 생각을 좀 해봤습니다.
+- 구슬이 서말이라도 꿰어야 보배라는 말을 카페에서 들었는데.. 지금까지 해놓은 것들은 만들기에 너무 급급하지 않았나? 라는 생각을 좀 해봤습니다.
 이러한 이유로 지금까지 한것들을 정리하고 (개인적으로)초보탈출 1기 프로젝트 마무리 해보려고 합니다.
 
-다음 프로젝트에는 1차 버전의 실험보드 수정보완버전 제작, 제품수준의 다른 프로젝트(FND시계, 오디오 아날라이저, RS-232통신 모터제어기)도 만들고 싶은 생각이 듭니다.
+- 다음 프로젝트에는 1차 버전의 실험보드 수정보완버전 제작, 제품수준의 다른 프로젝트(FND시계, 오디오 아날라이저, RS-232통신 모터제어기)도 만들고 싶은 생각이 듭니다.
 *레지스터 직접방식도 기회가 되면 글을 계속 써 보겠습니다.
 
-혹시라도 방향성에 대한 제시라던가, 고견 제시 부탁드리겠습니다 :)
+- 혹시라도 방향성에 대한 제시라던가, 고견 제시 부탁드리겠습니다 :)
 
 
 
-103 초보탈출 1차 리스트(37개)==========================================
+- 103 초보탈출 1차 리스트(37개)==========================================
 
 00.[문서] STM32F1을 공부하며 많이 찾아보게 되는 문서 두가지 공유
 https://cafe.naver.com/circuitsmanual/209330
