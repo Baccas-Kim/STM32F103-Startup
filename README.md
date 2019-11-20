@@ -2,7 +2,7 @@
 Escape starter project
 bulltin board in "https://cafe.naver.com/circuitsmanual" 2018 STM32 초보탈출
 
-
+![](https://cafeptthumb-phinf.pstatic.net/MjAxOTAxMjJfMjE3/MDAxNTQ4MTMzODAxMzI4.YxRKotS-lNniUIa1DBTNrL_FyXryGzXYA-quMYBK1OIg.YziRtRKuiT4bcOHwL4fWEahlhOo3zNhqryihul-5d_Ig.JPEG.ultraraptor/STM32F-103C8T6-ARM-STM32-Minimum-System-Development.jpg_350x350.jpg?type=w740)
 안녕하세요 STM32초보탈출 프로젝트를 진행하며, 1기 초보탈출 내용을 정리해보고자 글을 썻습니다.
 이 글 말고도 아래 제 개인 Github에 간단한 문서와 글을 업로드 하였으니, 참고 하시면 될듯 합니다.
 
